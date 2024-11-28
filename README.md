@@ -31,9 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-"C:\Users\admin\Documents\duster.jpg"
+
+![duster](https://github.com/user-attachments/assets/8a52650c-644e-4861-be6d-7a6139e7c417)
+
 ### Output:
-"C:\Users\admin\Pictures\Screenshots\Screenshot 2024-11-28 112145.png"
+![Screenshot 2024-11-28 112145](https://github.com/user-attachments/assets/dbb7935b-c410-4531-a918-24dd876d85d9)
+
 
 ### Name:Kathi Hasini
 ### Register Number:24000087
